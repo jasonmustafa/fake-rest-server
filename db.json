@@ -5,21 +5,30 @@
       "id": 1,
       "title": "test post title 1",
       "body": "test post body 1",
-      "tags": ["tag1", "tag2", "tag3"]
+      "tags": [
+        { "name": "tag1" },
+        { "name": "tag2" },
+        { "name": "tag3" }
+      ]
     },
     {
       "userId": 2,
       "id": 2,
       "title": "test post title 2",
       "body": "test post body 2",
-      "tags": ["tag2", "tag3"]
+      "tags": [
+        { "name": "tag3" }
+      ]
     },
     {
       "userId": 3,
       "id": 3,
       "title": "test post title 3",
       "body": "test post body 3",
-      "tags": ["tag1"]
+      "tags": [
+        { "name": "tag1" },
+        { "name": "tag3" }
+      ]
     }
   ],
   "comments": [
