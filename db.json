@@ -64,14 +64,14 @@
     },
     {
       "id": 2,
-      "permission": "admin",
+      "permission": "executive",
       "name": "User 2",
       "username": "username 2",
       "email": "sample@email.com"
     },
     {
       "id": 3,
-      "permission": "admin",
+      "permission": "employee",
       "name": "User 3",
       "username": "username 3",
       "email": "sample@email.com"
